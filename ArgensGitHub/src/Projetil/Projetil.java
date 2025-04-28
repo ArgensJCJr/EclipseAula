@@ -13,7 +13,7 @@ public class Projetil extends JPanel implements Runnable{
 	
 	Projetil() {
 		this.setPreferredSize(new Dimension(largura, altura));
-		this.setBackground(new Color(60,30,180));
+		this.setBackground(new Color(60,230,180));
 		this.setLayout(null);
 	}
 	
